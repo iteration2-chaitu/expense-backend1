@@ -17,4 +17,4 @@ name: Continuous Integration
 on: [push]
 jobs:
   call-continuous-integration-reusable:
-    uses:Github_iteration2/github-reusable-workflows/.github/workflows/ci.yml@main
+    uses: Github_iteration2/github-reusable-workflows/.github/workflows/ci.yml@main
